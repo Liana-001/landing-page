@@ -1,8 +1,11 @@
-import LibraryPage from "./pages/LibraryPage";
+
+import HomePage from "./pages/HomePage";
+
+
 
 
 function App() {
-  return <LibraryPage/>;
+  return <HomePage/>;
 }
 
 export default App;

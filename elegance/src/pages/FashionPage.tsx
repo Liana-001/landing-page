@@ -1,4 +1,4 @@
-import "../styles/FashionPage.css";
+import "./FashionPage.css";
 
 function FashionPage() {
   return (

@@ -1,4 +1,4 @@
-import "../styles/HomePage.css";
+import "./HomePage.css";
 
 function HomePage() {
   return (
@@ -46,12 +46,7 @@ function HomePage() {
            <button className="card-button">Explore</button>
         </div>
 
-        <div className="feature-card">
-             <img src="/tutorial.jpeg" alt="My Portrait" />
-          <h3>Tutorials</h3>
-          <p>Learn skills, editing, fashion, and tech.</p>
-           <button className="card-button">Explore</button>
-        </div>
+     
 
         <div className="feature-card">
              <img src="/LAP.jpg" alt="My Portrait" />

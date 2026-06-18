@@ -1,4 +1,4 @@
-import "../styles/Landingpage.css";
+import "./Landingpage.css";
 import { FaWhatsapp, FaInstagram, FaFacebook } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 
