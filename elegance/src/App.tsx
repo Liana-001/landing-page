@@ -1,11 +1,9 @@
 
-import HomePage from "./pages/HomePage";
-
-
+import AdminDashboard from "./pages/admindashboard";
 
 
 function App() {
-  return <HomePage/>;
+  return <AdminDashboard/>;
 }
 
 export default App;
